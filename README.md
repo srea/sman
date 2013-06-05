@@ -7,5 +7,5 @@ setup
 ===
 
     cd ~/bin/
-    git clone THIS Repository URL
+    git clone git://github.com/srea/sman.git
     
