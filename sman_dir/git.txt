@@ -1,0 +1,3 @@
+git br -r // Remote Branch List
+git branch -d local_branch // ローカルブランチ削除
+git push origin :remote_branch // リモートブランチ削除

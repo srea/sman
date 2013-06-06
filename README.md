@@ -6,6 +6,6 @@ manコマンドじゃわからないならsmanコマンドだ！
 setup
 ===
 
-    cd ~/bin/
+    cd 
     git clone git://github.com/srea/sman.git
     

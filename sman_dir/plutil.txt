@@ -1,0 +1,1 @@
+plutil -p FrameSquare09002.plist (テキスト出力)

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# $ zgrep -l "Mac OS X" /usr/share/man/man1/*
+
+if [ -r "~/sman/sman_dir/${1}.txt" ]; then
+    cat "~/sman/sman_dir/${1}.txt"
+fi

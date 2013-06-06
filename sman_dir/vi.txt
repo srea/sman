@@ -1,0 +1,2 @@
+:%!unexpand -t 4 // space to tab
+:%!expand -t 4   // tab to space
